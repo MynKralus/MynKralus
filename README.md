@@ -2,10 +2,10 @@
 <tr>
 <td valign="middle" nowrap>
 
-<a href="https://mynkralus.gt.tc/"><img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" alt="MynKralus" width="70" align="left"></a>&nbsp;&nbsp;&nbsp;<b>Made in</b><br>
+<a href="https://mynkralus.gt.tc/"><img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" alt="MynKralus" width="70" align="left"></a><b>Made in</b><br>
 <a href="https://mynkralus.gt.tc/"><strong>MynKralus</strong></a><br>
 <sub>Dijital Dünya'nın</sub><br>
-<sub>Kaliteli Adresi</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>Kaliteli Adresi</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </td>
 
