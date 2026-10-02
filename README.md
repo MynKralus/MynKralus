@@ -1,10 +1,4 @@
-﻿cd "C:\Users\trsta\OneDrive\Belgeler"
 
-git clone https://github.com/MynKralus/MynKralus.git
-
-cd "C:\Users\trsta\OneDrive\Belgeler\MynKralus"
-
-@'
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=210&section=header&text=MynKralus&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
