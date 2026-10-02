@@ -1,74 +1,9 @@
-<svg width="1400" height="300" viewBox="0 0 1400 300" xmlns="http://www.w3.org/2000/svg">
-<defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#0b1220"/>
-    <stop offset="100%" stop-color="#111827"/>
-  </linearGradient>
-  <linearGradient id="btn" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#2563eb"/>
-    <stop offset="100%" stop-color="#123b87"/>
-  </linearGradient>
-</defs>
+<svg width="1217" height="100" viewBox="0 0 1217 100" xmlns="http://www.w3.org/2000/svg">
+  <title>MynKralus</title>
+  <image href="data:image/jpeg;base64,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"></image>
 
-<!-- Outer frame -->
-<rect width="1400" height="300" fill="#080d15"/>
-<rect x="28" y="30" width="1344" height="240" rx="20"
-      fill="url(#bg)" stroke="#1f66ad" stroke-width="3"/>
-
-<!-- Logo -->
-<rect x="54" y="72" width="150" height="150" rx="10"
-      fill="#050505" stroke="#18a0ff" stroke-width="4"/>
-<text x="129" y="145" text-anchor="middle"
-      fill="#d6d8dc" font-family="Georgia,Times New Roman,serif"
-      font-size="48" font-weight="700">Kn</text>
-<text x="129" y="185" text-anchor="middle"
-      fill="#8f9298" font-family="Georgia,Times New Roman,serif"
-      font-size="30" font-weight="700">R</text>
-<text x="129" y="204" text-anchor="middle"
-      fill="#666a70" font-family="Segoe UI,Arial,sans-serif"
-      font-size="8" letter-spacing="1.3">MYNKRALUS</text>
-
-<!-- Brand -->
-<text x="230" y="95" fill="#d7dee8"
-      font-family="Segoe UI,Arial,sans-serif" font-size="20">Made in</text>
-<text x="230" y="140" fill="#ffffff"
-      font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="700">MynKralus</text>
-<text x="230" y="172" fill="#aeb9c8"
-      font-family="Segoe UI,Arial,sans-serif" font-size="17">Dijital Dünya'nın Kaliteli Adresi</text>
-
-<!-- Navigation buttons: 12px gaps, equal size -->
-<g font-family="Segoe UI,Arial,sans-serif" font-weight="700" fill="#ffffff">
-
-<a href="https://mynkralus.gt.tc/">
-<rect x="690" y="75" width="150" height="150" rx="16" fill="url(#btn)" stroke="#1597ff" stroke-width="3"/>
-<path d="M736 133 l29 -25 29 25 v39 h-19 v-24 h-20 v24 h-19z" fill="#fff"/>
-<text x="765" y="198" text-anchor="middle" font-size="17">Ana Sayfa</text>
-</a>
-
-<a href="https://mynkralus.gt.tc/Game.html">
-<rect x="852" y="75" width="150" height="150" rx="16" fill="url(#btn)" stroke="#1597ff" stroke-width="3"/>
-<path d="M885 145 q7 -25 26 -25 h31 q19 0 26 25 l6 22 q3 14 -10 14 q-9 0 -16 -12 l-5 -8 h-27 l-5 8 q-7 12 -16 12 q-13 0 -10 -14z"
-      fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
-<path d="M900 141 h14 m-7 -7 v14" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
-<circle cx="968" cy="137" r="4" fill="#fff"/>
-<circle cx="981" cy="146" r="4" fill="#fff"/>
-<text x="927" y="198" text-anchor="middle" font-size="17">Oyunlar</text>
-</a>
-
-<a href="https://mynkralus.gt.tc/kuvaidle.html">
-<rect x="1014" y="75" width="150" height="150" rx="16" fill="url(#btn)" stroke="#1597ff" stroke-width="3"/>
-<path d="M1055 124 h23 v-8 q0 -10 10 -10 q10 0 10 10 v8 h23 v23 h8 q10 0 10 10 q0 10 -10 10 h-8 v23 h-23 v-8 q0 -10 -10 -10 q-10 0 -10 10 v8 h-23 v-23 h-8 q-10 0 -10 -10 q0 -10 10 -10 h8z"
-      fill="#fff"/>
-<text x="1089" y="198" text-anchor="middle" font-size="17">KuVaidle</text>
-</a>
-
-<a href="https://mynkralus.gt.tc/İletisim.html">
-<rect x="1176" y="75" width="150" height="150" rx="16" fill="url(#btn)" stroke="#1597ff" stroke-width="3"/>
-<rect x="1215" y="117" width="72" height="54" rx="8"
-      fill="none" stroke="#fff" stroke-width="6"/>
-<path d="M1219 121 l32 25 32 -25" fill="none" stroke="#fff" stroke-width="6"/>
-<text x="1251" y="198" text-anchor="middle" font-size="17">İletişim</text>
-</a>
-
-</g>
+  <a href="https://mynkralus.gt.tc/" aria-label="Ana Sayfa"><rect x="680" y="0" width="135" height="100" fill="transparent"/></a>
+  <a href="https://mynkralus.gt.tc/Game.html" aria-label="Oyunlar"><rect x="815" y="0" width="125" height="100" fill="transparent"/></a>
+  <a href="https://mynkralus.gt.tc/kuvaidle.html" aria-label="KuVaidle"><rect x="940" y="0" width="120" height="100" fill="transparent"/></a>
+  <a href="https://mynkralus.gt.tc/İletisim.html" aria-label="İletişim"><rect x="1060" y="0" width="157" height="100" fill="transparent"/></a>
 </svg>
