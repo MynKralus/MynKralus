@@ -5,7 +5,7 @@
 <a href="https://mynkralus.gt.tc/"><img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" alt="MynKralus" width="70" align="left"></a>
 <b>Made in</b><br>
 <a href="https://mynkralus.gt.tc/"><strong>MynKralus</strong></a><br>
-<sub>Dijital Dünya'nın Kaliteli Adresi</sub>
+<sub>Dijital Dünya'nın Kaliteli Adresi</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </td>
 
