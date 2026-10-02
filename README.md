@@ -2,26 +2,28 @@
 
 <table>
 <tr>
-<td align="left" width="90">
-<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="72" alt="MynKralus Logo">
+<td width="140" align="center" rowspan="2">
+<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="120" alt="MynKralus Logo">
 </td>
 <td align="left">
-<b>Made in</b><br>
-<strong>MynKralus</strong><br>
+<sub>Made in</sub><br>
+<h1 style="margin:0;">MynKralus</h1>
 <sub>Dijital Dünya'nın Kaliteli Adresi</sub>
-</td>
-<td align="right">
-
-<a href="https://mynkralus.gt.tc/">🏠 Ana Sayfa</a>&nbsp; · &nbsp;
-<a href="https://mynkralus.gt.tc/Game.html">🎮 Oyunlar</a>&nbsp; · &nbsp;
-<a href="https://mynkralus.gt.tc/kuvaidle.html">🧩 KuVaidle</a>&nbsp; · &nbsp;
-<a href="https://mynkralus.gt.tc/İletisim.html">✉️ İletişim</a>
-
 </td>
 </tr>
 </table>
 
+<table>
+<tr>
+<td align="center"><a href="https://mynkralus.gt.tc/"><b>🏠 Ana Sayfa</b></a></td>
+<td align="center"><a href="https://mynkralus.gt.tc/Game.html"><b>🎮 Oyunlar</b></a></td>
+<td align="center"><a href="https://mynkralus.gt.tc/kuvaidle.html"><b>🧩 KuVaidle</b></a></td>
+<td align="center"><a href="https://mynkralus.gt.tc/İletisim.html"><b>✉️ İletişim</b></a></td>
+</tr>
+</table>
+
 <h2>Software Engineer · Builder · Creator</h2>
+
 <p>Building apps, AI tools, Windows utilities and web projects under the <b>MynKralus</b> ecosystem.</p>
 
 <p>
@@ -32,7 +34,6 @@
 </p>
 
 </div>
-
 ---
 
 ## ⚡ About
