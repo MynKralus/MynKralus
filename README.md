@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="MynKralus Profile Header">
+<a href="https://mynkralus.gt.tc/" title="Ana Sayfa"><img src="./assets/profile-brand.jpg" width="56.284%" alt="MynKralus"></a><a href="https://mynkralus.gt.tc/" title="Ana Sayfa"><img src="./assets/profile-home.jpg" width="11.092%" alt="Ana Sayfa"></a><a href="https://mynkralus.gt.tc/Game.html" title="Oyunlar"><img src="./assets/profile-games.jpg" width="10.353%" alt="Oyunlar"></a><a href="https://mynkralus.gt.tc/kuvaidle.html" title="KuVaidle"><img src="./assets/profile-kuvaid.jpg" width="10.518%" alt="KuVaidle"></a><a href="https://mynkralus.gt.tc/İletisim.html" title="İletişim"><img src="./assets/profile-contact.jpg" width="11.753%" alt="İletişim"></a>
 
 </div>
+
 ---
 
 ## ⚡ About
