@@ -2,36 +2,33 @@
 
 <table>
 <tr>
-<td align="left" width="72">
-
-<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="64" height="64" alt="MynKralus Logo">
-
+<td align="left" width="90">
+<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="72" alt="MynKralus Logo">
 </td>
 <td align="left">
-<sub>Made in</sub><br>
-<strong style="font-size:28px">MynKralus</strong><br>
+<b>Made in</b><br>
+<strong>MynKralus</strong><br>
 <sub>Dijital Dünya'nın Kaliteli Adresi</sub>
 </td>
 <td align="right">
 
-<a href="https://mynkralus.gt.tc/">🏠 Ana Sayfa</a>&nbsp;&nbsp;
-<a href="https://mynkralus.gt.tc/Game.html">🎮 Oyunlar</a>&nbsp;&nbsp;
-<a href="https://mynkralus.gt.tc/kuvaidle.html">🧩 KuVaidle</a>&nbsp;&nbsp;
+<a href="https://mynkralus.gt.tc/">🏠 Ana Sayfa</a>&nbsp; · &nbsp;
+<a href="https://mynkralus.gt.tc/Game.html">🎮 Oyunlar</a>&nbsp; · &nbsp;
+<a href="https://mynkralus.gt.tc/kuvaidle.html">🧩 KuVaidle</a>&nbsp; · &nbsp;
 <a href="https://mynkralus.gt.tc/İletisim.html">✉️ İletişim</a>
 
 </td>
 </tr>
 </table>
 
-### Software Engineer · Builder · Creator
-
+<h2>Software Engineer · Builder · Creator</h2>
 <p>Building apps, AI tools, Windows utilities and web projects under the <b>MynKralus</b> ecosystem.</p>
 
 <p>
-<a href="https://mynkralus.gt.tc/"><img src="https://img.shields.io/badge/Website-MynKralus-111827?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://github.com/MynKralus"><img src="https://img.shields.io/badge/GitHub-MynKralus-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://instagram.com/kr_myn_24"><img src="https://img.shields.io/badge/Instagram-kr__myn__24-111827?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://x.com/kralus24"><img src="https://img.shields.io/badge/X-kralus24-111827?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://mynkralus.gt.tc/"><img src="https://img.shields.io/badge/MynKralus%20Web-111827?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://github.com/MynKralus"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://instagram.com/kr_myn_24"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/kralus24"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 </div>
@@ -42,7 +39,7 @@
 
 I build software across **Android, Windows, Web and AI**.
 
-My projects are organized around the **MynKralus** ecosystem, from practical utilities and downloadable applications to experimental AI and web systems.
+The **MynKralus** ecosystem brings my applications, utilities, experiments and web projects together under one identity.
 
 > **Dijital Dünya'nın Kaliteli Adresi**
 
@@ -52,54 +49,62 @@ My projects are organized around the **MynKralus** ecosystem, from practical uti
 
 <table>
 <tr>
-<td>🤖 <b>AI & Automation</b><br/>Local tools and assistants</td>
-<td>📱 <b>Android</b><br/>Applications and utilities</td>
-<td>🖥️ <b>Windows</b><br/>Desktop tools</td>
+<td align="center">🤖<br><b>AI & Automation</b><br><sub>Assistants & local tools</sub></td>
+<td align="center">📱<br><b>Android</b><br><sub>Apps & utilities</sub></td>
+<td align="center">🖥️<br><b>Windows</b><br><sub>Desktop tools</sub></td>
 </tr>
 <tr>
-<td>🌐 <b>Web</b><br/>Sites and online systems</td>
-<td>🛠️ <b>Developer Tools</b><br/>Utilities and experiments</td>
-<td>🎮 <b>Games</b><br/>Interactive projects</td>
+<td align="center">🌐<br><b>Web</b><br><sub>Sites & systems</sub></td>
+<td align="center">🛠️<br><b>Developer Tools</b><br><sub>Utilities & experiments</sub></td>
+<td align="center">🎮<br><b>Games</b><br><sub>Interactive projects</sub></td>
 </tr>
 </table>
 
 ---
 
-# 🚀 MynKralus Ecosystem
+# 🚀 Featured Projects
 
-## 🤖 MynAI
+<table>
+<tr>
+<td width="50%">
 
-A lightweight local-first assistant project for Windows and Android.
+### 🤖 MynAI
 
-Current repository capabilities include written commands, Windows actions, web opening/searching, file search, Android ADB control, optional offline voice input, and optional local Ollama-based intent resolution.
+Windows/Android assistant project built around local-first command execution.
 
-**Repository:** [MynAi](https://github.com/MynKralus/MynAi)
+**Stack:** Python · Windows · Android · ADB · Ollama · Voice
+
+<a href="https://github.com/MynKralus/MynAi">View Repository →</a>
+
+</td>
+<td width="50%">
+
+### 🎵 MynMusic
+
+Android music application project.
+
+**Stack:** Kotlin · Android · Gradle
+
+<a href="https://github.com/MynKralus/MynMusic">View Repository →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎵 MynMusic
-
-Android music application project in the MynKralus ecosystem.
-
-**Repository:** [MynMusic](https://github.com/MynKralus/MynMusic)
-
----
-
-## 📱 MynApp
+# 📱 MynApp
 
 Downloadable applications developed under the MynKralus ecosystem.
 
 <table>
 <tr>
-<td><a href="https://mynconverter.gt.tc/">🔄 <strong>MynConverter</strong></a><br><sub>Android · Conversion utility</sub></td>
-<td><a href="https://mynkralus.gt.tc/">📦 <strong>MynApkİnstaller</strong></a><br><sub>Android · APK installation helper</sub></td>
+<td><a href="https://mynconverter.gt.tc/"><b>🔄 MynConverter</b></a><br><sub>Android · Conversion utility</sub><br>Repository — Coming Soon</td>
+<td><a href="https://mynkralus.gt.tc/"><b>📦 MynApkİnstaller</b></a><br><sub>Android · APK installation helper</sub><br>Repository — Coming Soon</td>
 </tr>
 <tr>
-<td><a href="https://mynkralus.gt.tc/">✉️ <strong>Myn_E-Sms</strong></a><br><sub>Android · SMS management utility</sub></td>
-<td><a href="https://mynkralus.gt.tc/">🛡️ <strong>Myn_E-Sms-Hide</strong></a><br><sub>Android · Alternative/private-use SMS version</sub></td>
-</tr>
-<tr>
-<td colspan="2"><a href="https://github.com/MynKralus/MynAi">🤖 <strong>MynAi</strong></a><br><sub>Windows · Computer assistant</sub></td>
+<td><a href="https://mynkralus.gt.tc/"><b>✉️ Myn_E-Sms</b></a><br><sub>Android · SMS management utility</sub><br>Repository — Coming Soon</td>
+<td><a href="https://mynkralus.gt.tc/"><b>🛡️ Myn_E-Sms-Hide</b></a><br><sub>Android · Alternative SMS version</sub><br>Repository — Coming Soon</td>
 </tr>
 </table>
 
@@ -107,20 +112,20 @@ Downloadable applications developed under the MynKralus ecosystem.
 
 # 🌐 MynWeb
 
-The sites below are linked directly in the same card-like style used by the MynKralus Wallet.
+Web projects from the MynKralus ecosystem. Each project name is directly clickable.
 
 <table>
 <tr>
-<td><a href="https://mynkralus.gt.tc/">👑 <strong>MynKralus</strong></a><br><sub>Main MynKralus site</sub></td>
-<td><a href="https://emtyvision.gt.tc/">👁️ <strong>Emtyvision</strong></a><br><sub>Web project</sub></td>
+<td><a href="https://mynkralus.gt.tc/"><b>👑 MynKralus</b></a><br><sub>Main website</sub></td>
+<td><a href="https://emtyvision.gt.tc/"><b>👁️ Emtyvision</b></a><br><sub>Web project</sub></td>
 </tr>
 <tr>
-<td><a href="https://mynconverter.gt.tc/">🔄 <strong>MynConverter</strong></a><br><sub>Web conversion project</sub></td>
-<td><a href="https://elkasaat.gt.tc/">🕒 <strong>Elkasaat</strong></a><br><sub>Time-related web project</sub></td>
+<td><a href="https://mynconverter.gt.tc/"><b>🔄 MynConverter</b></a><br><sub>Web conversion project</sub></td>
+<td><a href="https://elkasaat.gt.tc/"><b>🕒 Elkasaat</b></a><br><sub>Time-related project</sub></td>
 </tr>
 <tr>
-<td><a href="https://kralus.gt.tc/">🛡️ <strong>Kralus</strong></a><br><sub>MynKralus ecosystem project</sub></td>
-<td><a href="https://mynkralus.gt.tc/kuvaidle.html">🧩 <strong>KuVaidle</strong></a><br><sub>Puzzle project</sub></td>
+<td><a href="https://kralus.gt.tc/"><b>🛡️ Kralus</b></a><br><sub>MynKralus ecosystem project</sub></td>
+<td><a href="https://mynkralus.gt.tc/kuvaidle.html"><b>🧩 KuVaidle</b></a><br><sub>Puzzle project</sub></td>
 </tr>
 </table>
 
@@ -136,7 +141,7 @@ The sites below are linked directly in the same card-like style used by the MynK
 
 ---
 
-# 📊 GitHub
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -149,37 +154,27 @@ The sites below are linked directly in the same card-like style used by the MynK
 
 # 🔭 Currently Building
 
-### 🤖 MynAI
-
-Working toward a self-reasoning command-line assistant that can understand voice or text instructions and execute useful actions safely.
-
-### 🎵 MynMusic
-
-Continuing development of the Android music project.
-
-### 🌐 MynWeb
-
-Expanding the collection of web projects inside the MynKralus ecosystem.
-
----
-
-# 🌍 Find Me
-
-<div align="center">
-
-🌐 **[MynKralus Website](https://mynkralus.gt.tc/)**  
-📸 **[Instagram](https://instagram.com/kr_myn_24)**  
-𝕏 **[X](https://x.com/kralus24)**  
-📘 **[Facebook](https://www.facebook.com/MYN.KRALUS/)**
-
-</div>
+<table>
+<tr>
+<td><b>🤖 MynAI</b><br><sub>Self-reasoning local-first assistant</sub></td>
+<td><b>🎵 MynMusic</b><br><sub>Android music application</sub></td>
+<td><b>🌐 MynWeb</b><br><sub>Expanding the web ecosystem</sub></td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-### Building the MynKralus ecosystem.
+### 🌍 Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer" width="100%"/>
+<a href="https://mynkralus.gt.tc/"><img src="https://img.shields.io/badge/MynKralus%20Web-111827?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://instagram.com/kr_myn_24"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/kralus24"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.facebook.com/MYN.KRALUS/"><img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
+<br><br>
+
+<sub>Building the MynKralus ecosystem.</sub>
 
 </div>
