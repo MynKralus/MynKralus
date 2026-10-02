@@ -13,11 +13,11 @@
 
 <td align="right" valign="middle" nowrap>
 <a href="https://mynkralus.gt.tc/"><img src="./assets/icon-home.png" width="24" height="24" alt="Ana Sayfa" align="middle"> <strong>Ana Sayfa</strong></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://mynkralus.gt.tc/Game.html"><img src="./assets/icon-games.png" width="26" height="24" alt="Oyunlar" align="middle"> <strong>Oyunlar</strong></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="./assets/icon-kuvaid.png" width="25" height="24" alt="KuVaidle" align="middle"> <strong>KuVaidle</strong></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://mynkralus.gt.tc/İletisim.html"><img src="./assets/icon-contact.png" width="25" height="24" alt="İletişim" align="middle"> <strong>İletişim</strong></a>
 </td>
 </tr>
