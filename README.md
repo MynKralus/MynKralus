@@ -169,13 +169,13 @@ Web projects from the MynKralus ecosystem. Each project name is directly clickab
 
 ### 🌍 Connect
 
-<a href="https://mynkralus.gt.tc/"><img src="https://api.iconify.design/fa6-solid:globe.svg?color=%23e6e6e6" width="16" align="middle" alt=""> MynKralus Web</a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/kr_myn_24"><img src="https://api.iconify.design/fa6-brands:instagram.svg?color=%23e6e6e6" width="16" align="middle" alt=""> Instagram</a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/kralus24"><img src="https://api.iconify.design/fa6-brands:x-twitter.svg?color=%23e6e6e6" width="16" align="middle" alt=""> X</a>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/MYN.KRALUS/"><img src="https://api.iconify.design/fa6-brands:facebook-f.svg?color=%23e6e6e6" width="16" align="middle" alt=""> Facebook</a>
+<div align="center">
+
+<a href="https://mynkralus.gt.tc/"><img src="https://img.shields.io/badge/MynKralus%20Web-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="MynKralus Web"></a>
+<a href="https://github.com/MynKralus"><img src="https://img.shields.io/badge/GitHub-MynKralus-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://instagram.com/kr_myn_24"><img src="https://img.shields.io/badge/Instagram-kr__myn__24-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://x.com/kralus24"><img src="https://img.shields.io/badge/X-kralus24-111827?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.facebook.com/MYN.KRALUS/"><img src="https://img.shields.io/badge/Facebook-MYN.KRALUS-111827?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 <br><br>
 
