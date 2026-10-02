@@ -1,38 +1,38 @@
 <table width="100%">
 <tr>
-<td width="42%" valign="middle">
+<td width="45%" valign="middle">
 
 <a href="https://mynkralus.gt.tc/">
-<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" alt="MynKralus Logo" width="60">
+<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" alt="MynKralus" width="70" align="left">
 </a>
 
-</td>
-<td width="14.5%" align="center">
-
-<a href="https://mynkralus.gt.tc/"><b>🏠<br>Ana Sayfa</b></a>
-
-</td>
-<td width="14.5%" align="center">
-
-<a href="https://mynkralus.gt.tc/Game.html"><b>🎮<br>Oyunlar</b></a>
+<b>Made in</b><br>
+<a href="https://mynkralus.gt.tc/"><strong>MynKralus</strong></a><br>
+<sub>Dijital Dünya'nın Kaliteli Adresi</sub>
 
 </td>
-<td width="14.5%" align="center">
+<td width="13.75%" align="center" valign="middle">
 
-<a href="https://mynkralus.gt.tc/kuvaidle.html"><b>🧩<br>KuVaidle</b></a>
+<h3><a href="https://mynkralus.gt.tc/">⌂<br>Ana Sayfa</a></h3>
 
 </td>
-<td width="14.5%" align="center">
+<td width="13.75%" align="center" valign="middle">
 
-<a href="https://mynkralus.gt.tc/İletisim.html"><b>✉️<br>İletişim</b></a>
+<h3><a href="https://mynkralus.gt.tc/Game.html">🎮<br>Oyunlar</a></h3>
+
+</td>
+<td width="13.75%" align="center" valign="middle">
+
+<h3><a href="https://mynkralus.gt.tc/kuvaidle.html">🧩<br>KuVaidle</a></h3>
+
+</td>
+<td width="13.75%" align="center" valign="middle">
+
+<h3><a href="https://mynkralus.gt.tc/İletisim.html">✉<br>İletişim</a></h3>
 
 </td>
 </tr>
 </table>
-
-<sub><b>Made in</b></sub><br>
-# MynKralus
-<sub>Dijital Dünya'nın Kaliteli Adresi</sub>
 
 ---
 
