@@ -1,23 +1,38 @@
-<header class="header" id="mainHeader">
-    <div class="header-container">
-        <div class="logo-container">
-            <a href="https://mynkralus.gt.tc/" class="logo-container">
-                <img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" alt="Logo" class="logo-image">
-                <div class="logo-text">
-                    <div class="logo-brand">Made in</div>
-                    <div class="logo-main">MynKralus</div>
-                    <div class="logo-slogan">Dijital Dünya'nın Kaliteli Adresi</div>
-                </div>
-            </a>
-        </div>
-        <nav class="nav-menu">
-            <a href="https://mynkralus.gt.tc/index.html"><i class="fas fa-home d-none d-lg-inline-block me-2"></i>Ana Sayfa</a>
-            <a href="https://mynkralus.gt.tc/Game.html"><i class="fas fa-gamepad d-none d-lg-inline-block me-2"></i>Oyunlar</a>
-            <a href="https://mynkralus.gt.tc/kuvaidle.html"><i class="fas fa-puzzle-piece d-none d-lg-inline-block me-2"></i>KuVaidle</a>
-            <a href="https://mynkralus.gt.tc/İletisim.html"><i class="fas fa-envelope d-none d-lg-inline-block me-2"></i>İletişim</a>
-        </nav>
-    </div>
-</header>
+<table width="100%">
+<tr>
+<td width="42%" valign="middle">
+
+<a href="https://mynkralus.gt.tc/">
+<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" alt="MynKralus Logo" width="60">
+</a>
+
+</td>
+<td width="14.5%" align="center">
+
+<a href="https://mynkralus.gt.tc/"><b>🏠<br>Ana Sayfa</b></a>
+
+</td>
+<td width="14.5%" align="center">
+
+<a href="https://mynkralus.gt.tc/Game.html"><b>🎮<br>Oyunlar</b></a>
+
+</td>
+<td width="14.5%" align="center">
+
+<a href="https://mynkralus.gt.tc/kuvaidle.html"><b>🧩<br>KuVaidle</b></a>
+
+</td>
+<td width="14.5%" align="center">
+
+<a href="https://mynkralus.gt.tc/İletisim.html"><b>✉️<br>İletişim</b></a>
+
+</td>
+</tr>
+</table>
+
+<sub><b>Made in</b></sub><br>
+# MynKralus
+<sub>Dijital Dünya'nın Kaliteli Adresi</sub>
 
 ---
 
