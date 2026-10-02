@@ -1,6 +1,6 @@
-<table>
+<table width="100%">
 <tr>
-<td valign="middle" nowrap>
+<td width="44%" valign="middle" nowrap>
 
 <a href="https://mynkralus.gt.tc/"><img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" alt="MynKralus" width="70" align="left"></a>
 <b>Made in</b><br>
@@ -9,16 +9,27 @@
 
 </td>
 
-<td valign="middle" nowrap>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td width="6%">&nbsp;</td>
 
-<td align="right" valign="middle" nowrap>
-<a href="https://mynkralus.gt.tc/"><img src="./assets/icon-home.png" width="24" height="24" alt="Ana Sayfa"> <strong>Ana Sayfa</strong></a>
-&nbsp;&nbsp;
-<a href="https://mynkralus.gt.tc/Game.html"><img src="./assets/icon-games.png" width="26" height="24" alt="Oyunlar"> <strong>Oyunlar</strong></a>
-&nbsp;&nbsp;
-<a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="./assets/icon-kuvaid.png" width="25" height="24" alt="KuVaidle"> <strong>KuVaidle</strong></a>
-&nbsp;&nbsp;
-<a href="https://mynkralus.gt.tc/İletisim.html"><img src="./assets/icon-contact.png" width="25" height="24" alt="İletişim"> <strong>İletişim</strong></a>
+<td width="50%" valign="middle">
+
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="middle" nowrap>
+<a href="https://mynkralus.gt.tc/"><img src="./assets/icon-home.png" width="24" height="24" align="middle" alt="Ana Sayfa"> <strong>Ana Sayfa</strong></a>
+</td>
+<td width="25%" align="center" valign="middle" nowrap>
+<a href="https://mynkralus.gt.tc/Game.html"><img src="./assets/icon-games.png" width="26" height="24" align="middle" alt="Oyunlar"> <strong>Oyunlar</strong></a>
+</td>
+<td width="25%" align="center" valign="middle" nowrap>
+<a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="./assets/icon-kuvaid.png" width="25" height="24" align="middle" alt="KuVaidle"> <strong>KuVaidle</strong></a>
+</td>
+<td width="25%" align="center" valign="middle" nowrap>
+<a href="https://mynkralus.gt.tc/İletisim.html"><img src="./assets/icon-contact.png" width="25" height="24" align="middle" alt="İletişim"> <strong>İletişim</strong></a>
+</td>
+</tr>
+</table>
+
 </td>
 </tr>
 </table>
