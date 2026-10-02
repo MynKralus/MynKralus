@@ -1,8 +1,23 @@
-<div align="center">
-
-<a href="https://mynkralus.gt.tc/" title="Ana Sayfa"><img src="./assets/profile-brand.jpg" width="56.284%" alt="MynKralus"></a><a href="https://mynkralus.gt.tc/" title="Ana Sayfa"><img src="./assets/profile-home.jpg" width="11.092%" alt="Ana Sayfa"></a><a href="https://mynkralus.gt.tc/Game.html" title="Oyunlar"><img src="./assets/profile-games.jpg" width="10.353%" alt="Oyunlar"></a><a href="https://mynkralus.gt.tc/kuvaidle.html" title="KuVaidle"><img src="./assets/profile-kuvaid.jpg" width="10.518%" alt="KuVaidle"></a><a href="https://mynkralus.gt.tc/İletisim.html" title="İletişim"><img src="./assets/profile-contact.jpg" width="11.753%" alt="İletişim"></a>
-
-</div>
+<header class="header" id="mainHeader">
+    <div class="header-container">
+        <div class="logo-container">
+            <a href="https://mynkralus.gt.tc/" class="logo-container">
+                <img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" alt="Logo" class="logo-image">
+                <div class="logo-text">
+                    <div class="logo-brand">Made in</div>
+                    <div class="logo-main">MynKralus</div>
+                    <div class="logo-slogan">Dijital Dünya'nın Kaliteli Adresi</div>
+                </div>
+            </a>
+        </div>
+        <nav class="nav-menu">
+            <a href="https://mynkralus.gt.tc/index.html"><i class="fas fa-home d-none d-lg-inline-block me-2"></i>Ana Sayfa</a>
+            <a href="https://mynkralus.gt.tc/Game.html"><i class="fas fa-gamepad d-none d-lg-inline-block me-2"></i>Oyunlar</a>
+            <a href="https://mynkralus.gt.tc/kuvaidle.html"><i class="fas fa-puzzle-piece d-none d-lg-inline-block me-2"></i>KuVaidle</a>
+            <a href="https://mynkralus.gt.tc/İletisim.html"><i class="fas fa-envelope d-none d-lg-inline-block me-2"></i>İletişim</a>
+        </nav>
+    </div>
+</header>
 
 ---
 
