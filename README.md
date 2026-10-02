@@ -1,20 +1,32 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=210&section=header&text=MynKralus&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+<table>
+<tr>
+<td align="left" width="72">
 
-<h3>Software Engineer · Builder · Creator</h3>
+<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="64" height="64" alt="MynKralus Logo">
 
-<p>Building apps, AI tools, Windows utilities and web projects under the <b>MynKralus</b> ecosystem.</p>
-<div align="center">
+</td>
+<td align="left">
+<sub>Made in</sub><br>
+<strong style="font-size:28px">MynKralus</strong><br>
+<sub>Dijital Dünya'nın Kaliteli Adresi</sub>
+</td>
+<td align="right">
 
-<img src="./assets/myn-logo.png" width="140" alt="MynKralus">
+<a href="https://mynkralus.gt.tc/">🏠 Ana Sayfa</a>&nbsp;&nbsp;
+<a href="https://mynkralus.gt.tc/Game.html">🎮 Oyunlar</a>&nbsp;&nbsp;
+<a href="https://mynkralus.gt.tc/kuvaidle.html">🧩 KuVaidle</a>&nbsp;&nbsp;
+<a href="https://mynkralus.gt.tc/İletisim.html">✉️ İletişim</a>
 
-# MYNKRALUS
+</td>
+</tr>
+</table>
 
 ### Software Engineer · Builder · Creator
 
-</div>
+<p>Building apps, AI tools, Windows utilities and web projects under the <b>MynKralus</b> ecosystem.</p>
+
 <p>
 <a href="https://mynkralus.gt.tc/"><img src="https://img.shields.io/badge/Website-MynKralus-111827?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://github.com/MynKralus"><img src="https://img.shields.io/badge/GitHub-MynKralus-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -77,30 +89,40 @@ Android music application project in the MynKralus ecosystem.
 
 Downloadable applications developed under the MynKralus ecosystem.
 
-| Application | Platform | Purpose |
-|---|---|---|
-| **MynConverter** | Android | Conversion utility |
-| **MynApkİnstaller** | Android | APK installation helper |
-| **Myn_E-Sms** | Android | SMS management utility |
-| **Myn_E-Sms-Hide** | Android | Alternative/private-use SMS version |
-| **MynAi** | Windows | Computer assistant |
+<table>
+<tr>
+<td><a href="https://mynconverter.gt.tc/">🔄 <strong>MynConverter</strong></a><br><sub>Android · Conversion utility</sub></td>
+<td><a href="https://mynkralus.gt.tc/">📦 <strong>MynApkİnstaller</strong></a><br><sub>Android · APK installation helper</sub></td>
+</tr>
+<tr>
+<td><a href="https://mynkralus.gt.tc/">✉️ <strong>Myn_E-Sms</strong></a><br><sub>Android · SMS management utility</sub></td>
+<td><a href="https://mynkralus.gt.tc/">🛡️ <strong>Myn_E-Sms-Hide</strong></a><br><sub>Android · Alternative/private-use SMS version</sub></td>
+</tr>
+<tr>
+<td colspan="2"><a href="https://github.com/MynKralus/MynAi">🤖 <strong>MynAi</strong></a><br><sub>Windows · Computer assistant</sub></td>
+</tr>
+</table>
 
 ---
 
 # 🌐 MynWeb
 
-Web projects presented through the MynKralus website.
+The sites below are linked directly in the same card-like style used by the MynKralus Wallet.
 
-| Project | Link |
-|---|---|
-| 👑 **MynKralus** | [Open](https://mynkralus.gt.tc/) |
-| 👁️ **Emtyvision** | [Open](https://emtyvision.gt.tc/) |
-| 🔄 **MynConverter** | [Open](https://mynconverter.gt.tc/) |
-| 🕒 **Elkasaat** | [Open](https://elkasaat.gt.tc/) |
-| ✍️ **Genç Kalemler** | [Open](https://genckalemler.elkaegitim.com/) |
-| 🛡️ **Kralus** | [Open](https://kralus.gt.tc/) |
-| 🎮 **Efsanevi Oyunlar** | [Open](https://mynkralus.gt.tc/Game.html) |
-| 🧩 **KuVaidle** | [Open](https://mynkralus.gt.tc/kuvaidle.html) |
+<table>
+<tr>
+<td><a href="https://mynkralus.gt.tc/">👑 <strong>MynKralus</strong></a><br><sub>Main MynKralus site</sub></td>
+<td><a href="https://emtyvision.gt.tc/">👁️ <strong>Emtyvision</strong></a><br><sub>Web project</sub></td>
+</tr>
+<tr>
+<td><a href="https://mynconverter.gt.tc/">🔄 <strong>MynConverter</strong></a><br><sub>Web conversion project</sub></td>
+<td><a href="https://elkasaat.gt.tc/">🕒 <strong>Elkasaat</strong></a><br><sub>Time-related web project</sub></td>
+</tr>
+<tr>
+<td><a href="https://kralus.gt.tc/">🛡️ <strong>Kralus</strong></a><br><sub>MynKralus ecosystem project</sub></td>
+<td><a href="https://mynkralus.gt.tc/kuvaidle.html">🧩 <strong>KuVaidle</strong></a><br><sub>Puzzle project</sub></td>
+</tr>
+</table>
 
 ---
 
