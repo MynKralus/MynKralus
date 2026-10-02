@@ -13,10 +13,10 @@
 </td>
 
 <td align="center" colspan="4">
-<a href="https://mynkralus.gt.tc/"><img src="https://img.shields.io/badge/%F0%9F%8F%A0%20Ana%20Sayfa-111827?style=for-the-badge" alt="Ana Sayfa"></a>
-<a href="https://mynkralus.gt.tc/Game.html"><img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Oyunlar-111827?style=for-the-badge" alt="Oyunlar"></a>
-<a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="https://img.shields.io/badge/%F0%9F%A7%A9%20KuVaidle-111827?style=for-the-badge" alt="KuVaidle"></a>
-<a href="https://mynkralus.gt.tc/İletisim.html"><img src="https://img.shields.io/badge/%E2%9C%89%20%C4%B0leti%C5%9Fim-111827?style=for-the-badge" alt="İletişim"></a>
+<a href="https://mynkralus.gt.tc/"><img src="https://api.iconify.design/fa6-solid:house.svg?color=%23ffffff" width="16" align="middle" alt="Ana Sayfa"> <img src="https://img.shields.io/badge/Ana%20Sayfa-111827?style=for-the-badge" alt="Ana Sayfa"></a>
+<a href="https://mynkralus.gt.tc/Game.html"><img src="https://api.iconify.design/fa6-solid:gamepad.svg?color=%23ffffff" width="16" align="middle" alt="Oyunlar"> <img src="https://img.shields.io/badge/Oyunlar-111827?style=for-the-badge" alt="Oyunlar"></a>
+<a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="https://api.iconify.design/fa6-solid:puzzle-piece.svg?color=%23ffffff" width="16" align="middle" alt="KuVaidle"> <img src="https://img.shields.io/badge/KuVaidle-111827?style=for-the-badge" alt="KuVaidle"></a>
+<a href="https://mynkralus.gt.tc/İletisim.html"><img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%23ffffff" width="16" align="middle" alt="İletişim"> <img src="https://img.shields.io/badge/%C4%B0leti%C5%9Fim-111827?style=for-the-badge" alt="İletişim"></a>
 </td>
 </tr>
 </table>
