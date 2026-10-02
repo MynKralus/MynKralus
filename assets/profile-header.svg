@@ -1,0 +1,66 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0b1220"/>
+    <stop offset="100%" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#2563eb"/>
+    <stop offset="100%" stop-color="#0b3b88"/>
+  </linearGradient>
+  <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="1400" height="360" fill="#080d15"/>
+<rect x="28" y="34" width="1344" height="292" rx="24" fill="url(#bg)" stroke="#1e5ea8" stroke-width="3"/>
+
+<!-- Logo -->
+<rect x="55" y="83" width="150" height="150" rx="12" fill="#050505" stroke="#18a0ff" stroke-width="4" filter="url(#glow)"/>
+<image href="https://mynkralus.gt.tc/Fotolar/myn.jpg" x="67" y="95" width="126" height="126" preserveAspectRatio="xMidYMid slice"/>
+
+<!-- Brand -->
+<text x="230" y="105" fill="#d7dee8" font-family="Segoe UI,Arial,sans-serif" font-size="21">Made in</text>
+<text x="230" y="153" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="37" font-weight="700">MynKralus</text>
+<text x="230" y="185" fill="#aeb9c8" font-family="Segoe UI,Arial,sans-serif" font-size="17">Dijital Dünya'nın Kaliteli Adresi</text>
+
+<!-- Buttons -->
+<g font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="18">
+  <!-- Home -->
+  <a href="https://mynkralus.gt.tc/">
+    <rect x="690" y="78" width="150" height="175" rx="18" fill="url(#blue)" stroke="#1597ff" stroke-width="3"/>
+    <g fill="#fff" stroke="#fff" stroke-width="2" filter="url(#glow)">
+      <path d="M744 127 l21 -19 21 19 v30 h-15 v-19 h-12 v19 h-15z" fill="#fff"/>
+    </g>
+    <text x="765" y="198" text-anchor="middle" fill="#fff">Ana Sayfa</text>
+  </a>
+
+  <!-- Games -->
+  <a href="https://mynkralus.gt.tc/Game.html">
+    <rect x="855" y="78" width="150" height="175" rx="18" fill="url(#blue)" stroke="#1597ff" stroke-width="3"/>
+    <g fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" filter="url(#glow)">
+      <path d="M892 147 q6 -25 25 -25 h26 q19 0 25 25 l6 23 q3 15 -10 15 q-8 0 -15 -12 l-5 -8 h-28 l-5 8 q-7 12 -15 12 q-13 0 -10 -15z"/>
+    </g>
+    <circle cx="955" cy="139" r="4" fill="#fff"/><circle cx="971" cy="147" r="4" fill="#fff"/>
+    <path d="M909 142 h14 m-7 -7 v14" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+    <text x="930" y="198" text-anchor="middle" fill="#fff">Oyunlar</text>
+  </a>
+
+  <!-- Puzzle -->
+  <a href="https://mynkralus.gt.tc/kuvaidle.html">
+    <rect x="1020" y="78" width="150" height="175" rx="18" fill="url(#blue)" stroke="#1597ff" stroke-width="3"/>
+    <path d="M1062 132 h20 v-9 q0 -11 11 -11 q11 0 11 11 v9 h20 v20 h9 q11 0 11 11 q0 11 -11 11 h-9 v20 h-20 v-9 q0 -11 -11 -11 q-11 0 -11 11 v9 h-20 v-20 h9 q11 0 11 -11 q0 -11 -11 -11 h-9z" fill="#fff" filter="url(#glow)"/>
+    <text x="1095" y="198" text-anchor="middle" fill="#fff">KuVaidle</text>
+  </a>
+
+  <!-- Contact -->
+  <a href="https://mynkralus.gt.tc/İletisim.html">
+    <rect x="1185" y="78" width="150" height="175" rx="18" fill="url(#blue)" stroke="#1597ff" stroke-width="3"/>
+    <rect x="1222" y="126" width="76" height="58" rx="8" fill="none" stroke="#fff" stroke-width="7" filter="url(#glow)"/>
+    <path d="M1227 132 l33 27 33 -27" fill="none" stroke="#fff" stroke-width="7" stroke-linejoin="round"/>
+    <text x="1260" y="198" text-anchor="middle" fill="#fff">İletişim</text>
+  </a>
+</g>
+</svg>
