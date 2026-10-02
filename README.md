@@ -1,18 +1,37 @@
 <div align="center">
 
-<p>
-<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="82" align="middle" alt="MynKralus Logo">
-&nbsp;&nbsp;&nbsp;
-<sub>Made in</sub> <strong>MynKralus</strong> <sub>Dijital Dünya'nın Kaliteli Adresi</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://mynkralus.gt.tc/"><img src="https://api.iconify.design/fa6-solid:house.svg?color=%23e6e6e6" width="15" align="middle" alt=""> Ana Sayfa</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://mynkralus.gt.tc/Game.html"><img src="https://api.iconify.design/fa6-solid:gamepad.svg?color=%23e6e6e6" width="15" align="middle" alt=""> Oyunlar</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="https://api.iconify.design/fa6-solid:puzzle-piece.svg?color=%23e6e6e6" width="15" align="middle" alt=""> KuVaidle</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://mynkralus.gt.tc/İletisim.html"><img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%23e6e6e6" width="15" align="middle" alt=""> İletişim</a>
-</p>
+<table width="100%">
+<tr>
+<td width="105" align="center" rowspan="2">
+<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="82" alt="MynKralus Logo">
+</td>
+
+<td width="260" align="left" rowspan="2">
+<sub>Made in</sub><br>
+<h2 style="margin:0;">MynKralus</h2>
+<sub>Dijital Dünya'nın Kaliteli Adresi</sub>
+</td>
+
+<td align="center" colspan="4">
+<sub>NAVIGATION</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://mynkralus.gt.tc/"><img src="https://img.shields.io/badge/🏠%20Ana%20Sayfa-2563EB?style=for-the-badge&labelColor=1D4ED8" alt="Ana Sayfa"></a>
+</td>
+<td align="center">
+<a href="https://mynkralus.gt.tc/Game.html"><img src="https://img.shields.io/badge/🎮%20Oyunlar-2563EB?style=for-the-badge&labelColor=1D4ED8" alt="Oyunlar"></a>
+</td>
+<td align="center">
+<a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="https://img.shields.io/badge/🧩%20KuVaidle-2563EB?style=for-the-badge&labelColor=1D4ED8" alt="KuVaidle"></a>
+</td>
+<td align="center">
+<a href="https://mynkralus.gt.tc/İletisim.html"><img src="https://img.shields.io/badge/✉️%20İletişim-2563EB?style=for-the-badge&labelColor=1D4ED8" alt="İletişim"></a>
+</td>
+</tr>
+</table>
 
 </div>
 ---
