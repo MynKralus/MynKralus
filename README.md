@@ -6,7 +6,15 @@
 <h3>Software Engineer · Builder · Creator</h3>
 
 <p>Building apps, AI tools, Windows utilities and web projects under the <b>MynKralus</b> ecosystem.</p>
+<div align="center">
 
+<img src="./assets/myn-logo.png" width="140" alt="MynKralus">
+
+# MYNKRALUS
+
+### Software Engineer · Builder · Creator
+
+</div>
 <p>
 <a href="https://mynkralus.gt.tc/"><img src="https://img.shields.io/badge/Website-MynKralus-111827?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://github.com/MynKralus"><img src="https://img.shields.io/badge/GitHub-MynKralus-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
