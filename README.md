@@ -2,17 +2,15 @@
 
 <p>
 <img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="82" align="middle" alt="MynKralus Logo">
-&nbsp;&nbsp;
-<sub>Made in</sub><br>
-<strong style="font-size:22px;">MynKralus</strong>&nbsp;
-<sub>Dijital Dünya'nın Kaliteli Adresi</sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+<sub>Made in</sub> <strong>MynKralus</strong> <sub>Dijital Dünya'nın Kaliteli Adresi</sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mynkralus.gt.tc/"><img src="https://api.iconify.design/fa6-solid:house.svg?color=%23e6e6e6" width="15" align="middle" alt=""> Ana Sayfa</a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mynkralus.gt.tc/Game.html"><img src="https://api.iconify.design/fa6-solid:gamepad.svg?color=%23e6e6e6" width="15" align="middle" alt=""> Oyunlar</a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="https://api.iconify.design/fa6-solid:puzzle-piece.svg?color=%23e6e6e6" width="15" align="middle" alt=""> KuVaidle</a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://mynkralus.gt.tc/İletisim.html"><img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%23e6e6e6" width="15" align="middle" alt=""> İletişim</a>
 </p>
 
