@@ -1,34 +1,22 @@
-<table width="100%">
-<tr>
-<td width="96" align="center">
-<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="80" alt="MynKralus Logo">
-</td>
+<div align="center">
 
-<td width="260" align="left">
+<p>
+<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="82" align="middle" alt="MynKralus Logo">
+&nbsp;&nbsp;
 <sub>Made in</sub><br>
-<strong>MynKralus</strong><br>
+<strong style="font-size:22px;">MynKralus</strong>&nbsp;
 <sub>Dijital Dünya'nın Kaliteli Adresi</sub>
-</td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://mynkralus.gt.tc/"><img src="https://api.iconify.design/fa6-solid:house.svg?color=%23e6e6e6" width="15" align="middle" alt=""> Ana Sayfa</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://mynkralus.gt.tc/Game.html"><img src="https://api.iconify.design/fa6-solid:gamepad.svg?color=%23e6e6e6" width="15" align="middle" alt=""> Oyunlar</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="https://api.iconify.design/fa6-solid:puzzle-piece.svg?color=%23e6e6e6" width="15" align="middle" alt=""> KuVaidle</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://mynkralus.gt.tc/İletisim.html"><img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%23e6e6e6" width="15" align="middle" alt=""> İletişim</a>
+</p>
 
-<td width="1%" align="center">&nbsp;</td>
-
-<td align="center">
-<a href="https://mynkralus.gt.tc/"><b>🏠 Ana Sayfa</b></a>
-</td>
-
-<td align="center">
-<a href="https://mynkralus.gt.tc/Game.html"><b>🎮 Oyunlar</b></a>
-</td>
-
-<td align="center">
-<a href="https://mynkralus.gt.tc/kuvaidle.html"><b>🧩 KuVaidle</b></a>
-</td>
-
-<td align="center">
-<a href="https://mynkralus.gt.tc/İletisim.html"><b>✉️ İletişim</b></a>
-</td>
-</tr>
-</table>
+</div>
 ---
 
 ## ⚡ About
@@ -164,10 +152,13 @@ Web projects from the MynKralus ecosystem. Each project name is directly clickab
 
 ### 🌍 Connect
 
-<a href="https://mynkralus.gt.tc/"><img src="https://img.shields.io/badge/MynKralus%20Web-111827?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://instagram.com/kr_myn_24"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://x.com/kralus24"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://www.facebook.com/MYN.KRALUS/"><img src="https://img.shields.io/badge/Facebook-111827?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://mynkralus.gt.tc/"><img src="https://api.iconify.design/fa6-solid:globe.svg?color=%23e6e6e6" width="16" align="middle" alt=""> MynKralus Web</a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/kr_myn_24"><img src="https://api.iconify.design/fa6-brands:instagram.svg?color=%23e6e6e6" width="16" align="middle" alt=""> Instagram</a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/kralus24"><img src="https://api.iconify.design/fa6-brands:x-twitter.svg?color=%23e6e6e6" width="16" align="middle" alt=""> X</a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/MYN.KRALUS/"><img src="https://api.iconify.design/fa6-brands:facebook-f.svg?color=%23e6e6e6" width="16" align="middle" alt=""> Facebook</a>
 
 <br><br>
 
