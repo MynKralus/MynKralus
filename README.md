@@ -1,34 +1,6 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="100" align="center">
-<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="82" alt="MynKralus Logo">
-</td>
-
-<td width="230" align="left">
-<sub>Made in</sub><br>
-<h2 style="margin:0;">MynKralus</h2>
-<sub>Dijital Dünya'nın Kaliteli Adresi</sub>
-</td>
-
-<td align="center" nowrap>
-<a href="https://mynkralus.gt.tc/"><img src="https://api.iconify.design/fa6-solid:house.svg?color=%23ffffff" width="16" align="middle" alt="Ana Sayfa"> <img src="https://img.shields.io/badge/Ana%20Sayfa-111827?style=for-the-badge" alt="Ana Sayfa"></a>
-</td>
-
-<td align="center" nowrap>
-<a href="https://mynkralus.gt.tc/Game.html"><img src="https://api.iconify.design/fa6-solid:gamepad.svg?color=%23ffffff" width="16" align="middle" alt="Oyunlar"> <img src="https://img.shields.io/badge/Oyunlar-111827?style=for-the-badge" alt="Oyunlar"></a>
-</td>
-
-<td align="center" nowrap>
-<a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="https://api.iconify.design/fa6-solid:puzzle-piece.svg?color=%23ffffff" width="16" align="middle" alt="KuVaidle"> <img src="https://img.shields.io/badge/KuVaidle-111827?style=for-the-badge" alt="KuVaidle"></a>
-</td>
-
-<td align="center" nowrap>
-<a href="https://mynkralus.gt.tc/İletisim.html"><img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%23ffffff" width="16" align="middle" alt="İletişim"> <img src="https://img.shields.io/badge/%C4%B0leti%C5%9Fim-111827?style=for-the-badge" alt="İletişim"></a>
-</td>
-</tr>
-</table>
+<img src="./assets/profile-header.svg" width="100%" alt="MynKralus Profile Header">
 
 </div>
 ---
