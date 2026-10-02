@@ -2,12 +2,12 @@
 
 <table>
 <tr>
-<td width="140" align="center" rowspan="2">
-<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="120" alt="MynKralus Logo">
+<td width="180" align="center">
+<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="150" alt="MynKralus Logo">
 </td>
 <td align="left">
-<sub>Made in</sub><br>
-<h1 style="margin:0;">MynKralus</h1>
+<sub>Made in</sub>
+<h1>MynKralus</h1>
 <sub>Dijital Dünya'nın Kaliteli Adresi</sub>
 </td>
 </tr>
@@ -15,10 +15,18 @@
 
 <table>
 <tr>
-<td align="center"><a href="https://mynkralus.gt.tc/"><b>🏠 Ana Sayfa</b></a></td>
-<td align="center"><a href="https://mynkralus.gt.tc/Game.html"><b>🎮 Oyunlar</b></a></td>
-<td align="center"><a href="https://mynkralus.gt.tc/kuvaidle.html"><b>🧩 KuVaidle</b></a></td>
-<td align="center"><a href="https://mynkralus.gt.tc/İletisim.html"><b>✉️ İletişim</b></a></td>
+<td align="center">
+<a href="https://mynkralus.gt.tc/"><img src="https://img.shields.io/badge/🏠%20Ana%20Sayfa-111827?style=for-the-badge" alt="Ana Sayfa"></a>
+</td>
+<td align="center">
+<a href="https://mynkralus.gt.tc/Game.html"><img src="https://img.shields.io/badge/🎮%20Oyunlar-111827?style=for-the-badge" alt="Oyunlar"></a>
+</td>
+<td align="center">
+<a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="https://img.shields.io/badge/🧩%20KuVaidle-111827?style=for-the-badge" alt="KuVaidle"></a>
+</td>
+<td align="center">
+<a href="https://mynkralus.gt.tc/İletisim.html"><img src="https://img.shields.io/badge/✉️%20İletişim-111827?style=for-the-badge" alt="İletişim"></a>
+</td>
 </tr>
 </table>
 
