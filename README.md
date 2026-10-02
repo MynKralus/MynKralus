@@ -8,23 +8,24 @@
 <sub>Dijital Dünya'nın Kaliteli Adresi</sub>
 
 </td>
-<td width="6%">&nbsp;</td>
+<td width="10%"></td>
 
-<td width="13%" align="center" valign="middle" nowrap>
+<td width="9.5%" align="right" valign="middle" nowrap>
 <a href="https://mynkralus.gt.tc/"><img src="./assets/icon-home.png" width="24" height="24" alt="Ana Sayfa"> <strong>Ana Sayfa</strong></a>
 </td>
 
-<td width="13%" align="center" valign="middle" nowrap>
+<td width="9.5%" align="right" valign="middle" nowrap>
 <a href="https://mynkralus.gt.tc/Game.html"><img src="./assets/icon-games.png" width="26" height="24" alt="Oyunlar"> <strong>Oyunlar</strong></a>
 </td>
 
-<td width="13%" align="center" valign="middle" nowrap>
+<td width="9.5%" align="right" valign="middle" nowrap>
 <a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="./assets/icon-kuvaid.png" width="25" height="24" alt="KuVaidle"> <strong>KuVaidle</strong></a>
 </td>
 
-<td width="13%" align="center" valign="middle" nowrap>
+<td width="9.5%" align="right" valign="middle" nowrap>
 <a href="https://mynkralus.gt.tc/İletisim.html"><img src="./assets/icon-contact.png" width="25" height="24" alt="İletişim"> <strong>İletişim</strong></a>
 </td>
+<td width="10%"></td>
 </tr>
 </table>
 
