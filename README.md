@@ -11,7 +11,8 @@
 <sub>Dijital Dünya'nın Kaliteli Adresi</sub>
 
 </td>
-<td width="13%" align="center" valign="middle">
+<td width="3%"></td>
+<td width="10%" align="center" valign="middle">
 
 <h3><a href="https://mynkralus.gt.tc/">⌂<br>Ana Sayfa</a></h3>
 
