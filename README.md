@@ -1,45 +1,23 @@
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td width="180" align="center">
-<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="150" alt="MynKralus Logo">
+<td width="110" align="center">
+<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" width="95" alt="MynKralus Logo">
 </td>
 <td align="left">
-<sub>Made in</sub>
-<h1>MynKralus</h1>
+<sub>Made in</sub><br>
+<h2 style="margin:0;">MynKralus</h2>
 <sub>Dijital Dünya'nın Kaliteli Adresi</sub>
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td align="center">
-<a href="https://mynkralus.gt.tc/"><img src="https://img.shields.io/badge/🏠%20Ana%20Sayfa-111827?style=for-the-badge" alt="Ana Sayfa"></a>
-</td>
-<td align="center">
-<a href="https://mynkralus.gt.tc/Game.html"><img src="https://img.shields.io/badge/🎮%20Oyunlar-111827?style=for-the-badge" alt="Oyunlar"></a>
-</td>
-<td align="center">
-<a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="https://img.shields.io/badge/🧩%20KuVaidle-111827?style=for-the-badge" alt="KuVaidle"></a>
-</td>
-<td align="center">
-<a href="https://mynkralus.gt.tc/İletisim.html"><img src="https://img.shields.io/badge/✉️%20İletişim-111827?style=for-the-badge" alt="İletişim"></a>
+<td align="right" nowrap>
+<a href="https://mynkralus.gt.tc/"><b>🏠 Ana Sayfa</b></a>&nbsp;&nbsp;&nbsp;
+<a href="https://mynkralus.gt.tc/Game.html"><b>🎮 Oyunlar</b></a>&nbsp;&nbsp;&nbsp;
+<a href="https://mynkralus.gt.tc/kuvaidle.html"><b>🧩 KuVaidle</b></a>&nbsp;&nbsp;&nbsp;
+<a href="https://mynkralus.gt.tc/İletisim.html"><b>✉️ İletişim</b></a>
 </td>
 </tr>
 </table>
-
-<h2>Software Engineer · Builder · Creator</h2>
-
-<p>Building apps, AI tools, Windows utilities and web projects under the <b>MynKralus</b> ecosystem.</p>
-
-<p>
-<a href="https://mynkralus.gt.tc/"><img src="https://img.shields.io/badge/MynKralus%20Web-111827?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://github.com/MynKralus"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://instagram.com/kr_myn_24"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://x.com/kralus24"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
 
 </div>
 ---
