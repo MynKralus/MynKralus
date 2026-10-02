@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td width="45%" valign="middle">
+<td width="48%" valign="middle">
 
 <a href="https://mynkralus.gt.tc/">
 <img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" alt="MynKralus" width="70" align="left">
@@ -11,22 +11,22 @@
 <sub>Dijital Dünya'nın Kaliteli Adresi</sub>
 
 </td>
-<td width="13.75%" align="center" valign="middle">
+<td width="13%" align="center" valign="middle">
 
 <h3><a href="https://mynkralus.gt.tc/">⌂<br>Ana Sayfa</a></h3>
 
 </td>
-<td width="13.75%" align="center" valign="middle">
+<td width="13%" align="center" valign="middle">
 
 <h3><a href="https://mynkralus.gt.tc/Game.html">🎮<br>Oyunlar</a></h3>
 
 </td>
-<td width="13.75%" align="center" valign="middle">
+<td width="13%" align="center" valign="middle">
 
 <h3><a href="https://mynkralus.gt.tc/kuvaidle.html">🧩<br>KuVaidle</a></h3>
 
 </td>
-<td width="13.75%" align="center" valign="middle">
+<td width="13%" align="center" valign="middle">
 
 <h3><a href="https://mynkralus.gt.tc/İletisim.html">✉<br>İletişim</a></h3>
 
