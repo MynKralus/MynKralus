@@ -1,37 +1,32 @@
 <table width="100%">
 <tr>
-<td width="46%" valign="middle">
+<td valign="middle">
 
-<a href="https://mynkralus.gt.tc/">
-<img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" alt="MynKralus" width="70" align="left">
-</a>
-
+<a href="https://mynkralus.gt.tc/"><img src="https://mynkralus.gt.tc/Fotolar/myn.jpg" alt="MynKralus" width="70" align="left"></a>
 <b>Made in</b><br>
 <a href="https://mynkralus.gt.tc/"><strong>MynKralus</strong></a><br>
 <sub>Dijital Dünya'nın Kaliteli Adresi</sub>
 
 </td>
-<td width="10%"></td>
-<td width="11%" align="center" valign="middle">
+<td width="8%">&nbsp;</td>
 
-<h3><a href="https://mynkralus.gt.tc/"><img src="./assets/icon-home.png" width="22" height="22" alt="Ana Sayfa"> Ana Sayfa</a></h3>
-
+<td align="center" valign="middle" nowrap>
+<a href="https://mynkralus.gt.tc/"><img src="./assets/icon-home.png" width="24" height="24" alt="Ana Sayfa"> <strong>Ana Sayfa</strong></a>
 </td>
-<td width="11%" align="center" valign="middle">
 
-<h3><a href="https://mynkralus.gt.tc/Game.html"><img src="./assets/icon-games.png" width="24" height="22" alt="Oyunlar"> Oyunlar</a></h3>
-
+<td align="center" valign="middle" nowrap>
+<a href="https://mynkralus.gt.tc/Game.html"><img src="./assets/icon-games.png" width="26" height="24" alt="Oyunlar"> <strong>Oyunlar</strong></a>
 </td>
-<td width="11%" align="center" valign="middle">
 
-<h3><a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="./assets/icon-kuvaid.png" width="23" height="22" alt="KuVaidle"> KuVaidle</a></h3>
-
+<td align="center" valign="middle" nowrap>
+<a href="https://mynkralus.gt.tc/kuvaidle.html"><img src="./assets/icon-kuvaid.png" width="25" height="24" alt="KuVaidle"> <strong>KuVaidle</strong></a>
 </td>
-<td width="11%" align="center" valign="middle">
 
-<h3><a href="https://mynkralus.gt.tc/İletisim.html"><img src="./assets/icon-contact.png" width="23" height="22" alt="İletişim"> İletişim</a></h3>
-
+<td align="center" valign="middle" nowrap>
+<a href="https://mynkralus.gt.tc/İletisim.html"><img src="./assets/icon-contact.png" width="25" height="24" alt="İletişim"> <strong>İletişim</strong></a>
 </td>
+
+<td valign="middle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 </tr>
 </table>
 
